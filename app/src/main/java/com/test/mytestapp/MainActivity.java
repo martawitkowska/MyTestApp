@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     /*Michał tu był*/
     /*Michał tu był2*/
+    /*Michał tu był3 - master*/
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
