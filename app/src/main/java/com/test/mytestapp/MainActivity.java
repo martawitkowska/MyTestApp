@@ -17,11 +17,8 @@ public class MainActivity extends AppCompatActivity {
 // Marta też tu była i już nic nie ogarnia :D
 
     // WERA przejmuje ten plik!
+    // HA HA HA
 
-    /**
-     *
-     * @param savedInstanceState komentarz
-     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
